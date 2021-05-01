@@ -1,0 +1,1 @@
+go run apk-regex.go -a file.apk -r regex.json
